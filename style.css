@@ -1,0 +1,15 @@
+p{
+    color:rgb(124, 134, 136);
+    font-family: cursive;
+    font-weight: bold;
+}
+ img{
+    width: 200px;
+    border-radius: 100;
+    font-size: small;
+    margin-right: 10;
+    box-sizing: border-box;
+    letter-spacing:50;
+ }
+
+
